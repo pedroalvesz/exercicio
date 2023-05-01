@@ -1,10 +1,11 @@
 
 <div width="100%" overflow="hidden" align="center">
-  <img src="Frame 1.png" width="40%" />
+  <img src="logo3.png" width="40%" />
 </div
 
 <br>
-
+<br>
+<br>
 
 
 <img src="https://img.shields.io/badge/status-%20in%20progress-yellow?style=for-the-badge" /></a>
@@ -21,4 +22,6 @@
  - [Spring Boot](https://spring.io/guides/gs/spring-boot/)
  - [MySQL](https://www.mysql.com/)
 
+## Autores
 
+- [Pedro Henrique Alves](https://github.com/)
