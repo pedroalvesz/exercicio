@@ -1,12 +1,11 @@
 
 <div width="100%" overflow="hidden" align="center">
-  <img src="logo.png" width="40%" />
+  <img src="Frame 1.png" width="40%" />
 </div
 
 <br>
 
 
-# goCharges
 
 <img src="https://img.shields.io/badge/status-%20in%20progress-yellow?style=for-the-badge" /></a>
 
